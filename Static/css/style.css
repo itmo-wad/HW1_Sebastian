@@ -1,0 +1,32 @@
+/* Estilos generales */
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    text-align: center;
+}
+
+/* Estiliza el encabezado */
+header {
+    background-color: #1a71cd;
+    color: rgb(206, 203, 203);
+    padding: 10px 0;
+}
+
+/* Estiliza el pie de página */
+footer {
+    background-color: #333;
+    color: white;
+    padding: 10px 0;
+}
+
+/* Estiliza las imágenes para que se ajusten al ancho del contenedor */
+img {
+    max-width: 100%;
+    height: auto;
+}
+img:hover {
+    transform: scale(1.1);
+    transition: transform 0.1s;
+}
+
