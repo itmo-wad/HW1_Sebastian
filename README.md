@@ -7,5 +7,8 @@ In this first web application development task, the first part I made a basic fr
 -CSS
 -Python
 
+# link to view the page in my local repository
+https://juansg0512.github.io/HW1_WAD/
+
 # Author
 Sebastian Guevara
